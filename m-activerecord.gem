@@ -1,0 +1,6 @@
+name: m-activerecord
+description: ActiveRecord class
+author: INOUE Yasuyuki
+website: https://github.com/yasuyuki/m-activerecord
+protocol: git
+repository: https://github.com/yasuyuki/m-activerecord.git
